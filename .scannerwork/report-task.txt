@@ -1,0 +1,6 @@
+projectKey=hp_token
+serverUrl=http://115.28.139.70:9000
+serverVersion=7.0.0.36138
+dashboardUrl=http://115.28.139.70:9000/dashboard/index/hp_token
+ceTaskId=AXbXJXpfg7-JLNsYBm9M
+ceTaskUrl=http://115.28.139.70:9000/api/ce/task?id=AXbXJXpfg7-JLNsYBm9M
