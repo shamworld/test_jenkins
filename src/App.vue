@@ -5,12 +5,10 @@
  * @Github: 15072443716@163.com
  * @Date: 2020-01-01 11:44:21
  * @LastEditors: Roy
- * @LastEditTime: 2021-01-07 14:50:06
+ * @LastEditTime: 2021-01-07 14:52:59
  * @Deprecated: 否
  * @FilePath: /test_jenkins/src/App.vue
  -->
- 
- 
 <template>
   <div id="app">
     <!-- 需要缓存的视图组件 -->
